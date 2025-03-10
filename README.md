@@ -9,4 +9,4 @@ read everything properly
 
 
 # local development
-open index,html in your browser 
+open index,html in your browser  thanks
